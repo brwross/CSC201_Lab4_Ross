@@ -1,0 +1,6 @@
+echo "# CSC201_Lab4_Ross" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/brwross/CSC201_Lab4_Ross.git
+git push -u origin master
